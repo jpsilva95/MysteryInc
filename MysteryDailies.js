@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Mystery Inc. Dailies
 // @namespace    http://tampermonkey.net/
-// @version      1.3.1
+// @version      1.3.2
 // @description  Send daily farm, resource stats, and troop counts to Discord
 // @author       Mystery Inc.
 // @match        https://*.tribalwars.com.pt/game.php*
