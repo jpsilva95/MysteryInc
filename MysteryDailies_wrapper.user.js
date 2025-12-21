@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         Mystery Dailies
 // @namespace    http://tampermonkey.net/
-// @version      1.3.5
+// @version      1.3.6
 // @description  Send daily farm and resource stats to Discord webhook
 // @author       Mystery Inc.
 // @icon         https://i.ibb.co/x8JQX8yS/ex1.png
 // @match        https://*.tribalwars.com.pt/game.php*
+// @exclude      https://*.tribalwars.com.pt/game.php*&screen=memo*
 // @require      https://raw.githubusercontent.com/jpsilva95/MysteryInc/main/MysteryDailies.js
 // @updateURL    https://raw.githubusercontent.com/jpsilva95/MysteryInc/main/MysteryDailies_wrapper.user.js
 // @downloadURL  https://raw.githubusercontent.com/jpsilva95/MysteryInc/main/MysteryDailies_wrapper.user.js
